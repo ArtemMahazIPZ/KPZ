@@ -17,7 +17,7 @@ class Enclosure(val id: Int, val size: String, val animalType: String) {
     }
 }
 
-#demo
+
 class Food(val name: String, val quantity: Int, val animalType: String) {
     fun displayInfo() {
         println("Корм для $animalType: $name, Кількість: $quantity")
