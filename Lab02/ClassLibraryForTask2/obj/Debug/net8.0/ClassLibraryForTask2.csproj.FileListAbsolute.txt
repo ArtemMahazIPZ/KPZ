@@ -1,0 +1,12 @@
+E:\ForKPZ\Lab02\ClassLibraryForTask2\bin\Debug\net8.0\ClassLibraryForTask2.deps.json
+E:\ForKPZ\Lab02\ClassLibraryForTask2\bin\Debug\net8.0\ClassLibraryForTask2.dll
+E:\ForKPZ\Lab02\ClassLibraryForTask2\bin\Debug\net8.0\ClassLibraryForTask2.pdb
+E:\ForKPZ\Lab02\ClassLibraryForTask2\obj\Debug\net8.0\ClassLibraryForTask2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ForKPZ\Lab02\ClassLibraryForTask2\obj\Debug\net8.0\ClassLibraryForTask2.AssemblyInfoInputs.cache
+E:\ForKPZ\Lab02\ClassLibraryForTask2\obj\Debug\net8.0\ClassLibraryForTask2.AssemblyInfo.cs
+E:\ForKPZ\Lab02\ClassLibraryForTask2\obj\Debug\net8.0\ClassLibraryForTask2.csproj.CoreCompileInputs.cache
+E:\ForKPZ\Lab02\ClassLibraryForTask2\obj\Debug\net8.0\ClassLibraryForTask2.sourcelink.json
+E:\ForKPZ\Lab02\ClassLibraryForTask2\obj\Debug\net8.0\ClassLibraryForTask2.dll
+E:\ForKPZ\Lab02\ClassLibraryForTask2\obj\Debug\net8.0\refint\ClassLibraryForTask2.dll
+E:\ForKPZ\Lab02\ClassLibraryForTask2\obj\Debug\net8.0\ClassLibraryForTask2.pdb
+E:\ForKPZ\Lab02\ClassLibraryForTask2\obj\Debug\net8.0\ref\ClassLibraryForTask2.dll
